@@ -1,1 +1,1 @@
-ijebrgibzge
+find -type f \( -name "*~" -o -name "#*#" \) -delete
